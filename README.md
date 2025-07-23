@@ -39,9 +39,12 @@ This project is ideal for learning:
 ### 📥 Data Includes:
 
 - 🌡️ **Current Weather**:
-  - Temperature
+  - UV Index
   - Humidity
   - Wind speed
+  - Pressure
+  - Precipitation
+  - Visibility
 
 - 🌫️ **Air Quality**:
   - PM2.5
