@@ -117,7 +117,7 @@ Perfect for **Power BI beginners to intermediates**, covering:
 
 ### Screenshots:
    
-![Dashboard Preview](images/weather-dashboard-screenshot.png)
+![Dashboard Preview](https://github.com/ashishsinghvns2505/Weather-dashboard/blob/main/Dashboard%20Screenshot.png)
 
 
 
