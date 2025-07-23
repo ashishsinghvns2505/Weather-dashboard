@@ -49,4 +49,5 @@ Enabled dynamic interaction with filters, slicers, and conditional formatting, g
 Perfect for beginners to intermediate Power BI users—this project covers working with APIs, transforming JSON, building responsive visuals, and writing DAX logic to enhance insight generation.
 
 5. Screenshots / Demos
-   https://github.com/ashishsinghvns2505/Weather-dashboard/blob/main/Dashboard%20Screenshot.png
+
+  <a> https://github.com/ashishsinghvns2505/Weather-dashboard/blob/main/Dashboard%20Screenshot.png </a>
