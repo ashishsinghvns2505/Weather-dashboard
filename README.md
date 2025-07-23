@@ -48,7 +48,8 @@ Enabled dynamic interaction with filters, slicers, and conditional formatting, g
 🧠 Learning Focused Implementation:
 Perfect for beginners to intermediate Power BI users—this project covers working with APIs, transforming JSON, building responsive visuals, and writing DAX logic to enhance insight generation.
 
-5. Screenshots
-   ![Alt text](https://github.com/ashishsinghvns2505/Weather-dashboard/blob/main/Dashboard%20Screenshot.png)
+5. Screenshots:
+   
+![Alt text](https://github.com/ashishsinghvns2505/Weather-dashboard/blob/main/Dashboard%20Screenshot.png)
 
 
