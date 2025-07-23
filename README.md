@@ -1,52 +1,95 @@
 # Weather-dashboard
-1.Weather dashboard: 
+1️⃣ Weather Dashboard
 
 Real-Time Weather and Air Quality Dashboard Using Power BI and WeatherAPI. n this project, I built a real-time weather dashboard using Power BI by connecting it with live data from WeatherAPI.
+This project showcases a real-time weather dashboard built using Power BI and WeatherAPI. It connects to live weather and air quality data and visualizes it through interactive visuals.
 
-2.Purpose:
+2️⃣ Purpose
+The goal of this project is to demonstrate how to:
 
-This project demonstrates how to create a real-time interactive weather dashboard using Power BI integrated with live data from WeatherAPI. It visualizes current weather conditions and enhances the user experience with Air Quality Index (AQI) indicators, providing both environmental insights and practical health suggestions. It’s a great learning project for anyone looking to understand API integration, data transformation, and dashboard design in Power BI.
+Build a real-time, interactive dashboard in Power BI
 
-3. Data Source:
+Integrate live data using WeatherAPI
 
-Primary Source: WeatherAPI.com
-Data Format: JSON
+Visualize both current weather conditions and air quality indicators
+
+Provide practical health suggestions based on AQI levels
+
+This project is ideal for learning:
+
+API integration
+
+JSON transformation
+
+Dashboard design
+
+DAX logic
+
+3️⃣ Data Source
+API Provider: WeatherAPI.com
+
+Format: JSON
+
 Data Includes:
-    > Current Weather Data (temperature, humidity, wind speed, etc.)
-    > Air Quality Data (PM2.5, CO, NO2, etc.)
 
-4. Features / Highlights:
+🌡️ Current Weather: temperature, humidity, wind speed
 
-🔗 Live API Integration:
-Connected Power BI to live weather data using the Web API connector and dynamic URLs from WeatherAPI.com. This enabled the dashboard to fetch real-time weather and air quality data directly into Power BI.
+🌫️ Air Quality: PM2.5, CO, NO₂, PM10, SO₂, O₃
 
-🛠 Data Transformation in Power Query Editor:
-Used Power Query to parse the JSON response, expand nested records (like current, condition, and air_quality), and clean up the data. Renamed and structured columns for better clarity and usability in visuals.
+4️⃣ Features & Highlights
+🔗 Live API Integration
+Connected Power BI to WeatherAPI using Web API connector with dynamic URLs
 
-📈 Interactive and Real-Time Weather Visualizations:
-    Created dynamic visuals such as:
-     > Cards for key weather metrics (temperature, humidity, wind speed)
-     > Charts showing variations in conditions (if extended with historical data)
-     > Slicers/Filters to switch between different cities easily
+Real-time data refresh enabled directly in the dashboard
 
-🎨 Custom Icons and Weather Conditions:
-Added weather icons and condition descriptions to make the dashboard more visually engaging and informative.
+🛠 Data Transformation in Power Query
+Parsed nested JSON objects (e.g., current, condition, air_quality)
 
-🌫 Air Quality Index (AQI) Indicators with DAX:
-   Created reusable and scalable DAX measures to display:
-     > AQI Color Coding (based on pollutant severity)
-     > AQI Status (e.g., Good, Moderate, Unhealthy)
-     > AQI Suggestions (health tips based on air quality levels)
-       These measures provide context-aware insights for different pollutants like pm2.5, co, no2, PM10, SO2, CO etc.
-       
-♻️ Reusable DAX Templates:
-Developed a set of generic DAX formulas that can be easily adapted for any air quality metric. This makes the dashboard scalable and quick to update when adding new data sources or pollutants.
+Cleaned and renamed columns
 
-🎛 User Interactivity and Customization:
-Enabled dynamic interaction with filters, slicers, and conditional formatting, giving users control to view real-time data specific to cities or environmental factors of their interest.
+Structured data for visualization
 
-🧠 Learning Focused Implementation:
-Perfect for beginners to intermediate Power BI users—this project covers working with APIs, transforming JSON, building responsive visuals, and writing DAX logic to enhance insight generation.
+📈 Interactive Weather Visuals
+KPI Cards for temperature, humidity, wind
+
+Charts to track variations (can be extended with historical data)
+
+Slicers to switch between different cities or regions
+
+🎨 Custom Visual Enhancements
+Weather icons and text-based conditions
+
+User-friendly and engaging layout
+
+🌫 Air Quality Indicators (AQI) with DAX
+Developed dynamic and reusable DAX measures:
+
+Color-coded AQI indicators
+
+AQI Status (Good, Moderate, Unhealthy, etc.)
+
+Health Tips based on pollutant levels
+
+♻️ Reusable & Scalable DAX Templates
+Generic DAX logic for:
+
+PM2.5, PM10, NO₂, SO₂, CO, O₃
+
+Easy to extend for new metrics or data sources
+
+🎛 User Interactivity
+Filters, slicers, and conditional formatting
+
+Select data by city or pollutant
+
+Real-time visual updates
+
+🧠 Learning-Oriented Design
+Perfect for Power BI beginners to intermediates:
+
+Covers key concepts: APIs, JSON, visuals, DAX
+
+Hands-on dashboard development
 
 5. Screenshots:
    
