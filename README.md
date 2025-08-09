@@ -1,4 +1,4 @@
-# Weather-dashboard
+# Real-Time Weather Insights
 # 🌤️ Real-Time Weather & Air Quality Dashboard Using Power BI & WeatherAPI
 
 ---
