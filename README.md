@@ -1,7 +1,5 @@
 # Real-Time Weather Insights
 
----
-
 ## 1️⃣ Weather Dashboard
 
 This project showcases a **real-time weather dashboard** built using **Power BI** and **WeatherAPI**.
